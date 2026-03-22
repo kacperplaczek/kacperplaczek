@@ -1,47 +1,84 @@
-# 👋 Hi, I'm Kacper Płaczek
+<h1 align="center">Hi 👋, I'm Kacper Płaczek</h1>
+<h3 align="center">Fullstack Node.js Developer | TypeScript | React | NestJS</h3>
 
-💻 **Fullstack Node.js Developer**  
-📍 Based in Bydgoszcz, Poland  
-🚀 Passionate about building scalable web apps and learning new technologies.
-
----
-
-### 🧠 About Me
-I'm a developer who loves solving complex problems with clean and efficient code.  
-Currently working with **TypeScript**, **React**, and **NestJS** — building fullstack applications that are fast, maintainable, and user-friendly.
-
-I value teamwork, clean architecture, and continuous improvement.  
-Always open to new challenges and collaborations in the open-source community.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Node.js+%7C+TypeScript+%7C+React;Building+scalable+web+apps;Always+learning+new+tech&center=true&width=500&height=45">
+</p>
 
 ---
 
-### ⚙️ Tech Stack
+## 🧠 About Me
 
-**Frontend:** React • Next.js • Vue.js • Astro  
-**Backend:** Node.js • NestJS • TypeORM  
-**Database:** PostgreSQL • MySQL  
-**Tools:** Docker • GitHub Actions • Jest  
-**Languages:** TypeScript • JavaScript (ES6+)  
+💻 Fullstack Developer focused on **Node.js ecosystem**  
+🚀 I build **scalable web applications, APIs, and fullstack systems**  
+🧩 I enjoy **clean architecture, performance optimization, and modular systems**  
+🎮 I also develop **game systems (FiveM / RageMP)**  
+📈 Constantly learning and improving my skills  
 
 ---
 
-### 🌟 What I’m working on
-- ⚡ Optimizing and scaling modern web apps  
+## ⚙️ Tech Stack
+
+### 🖥 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
+
+### 🗄 Database
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Tools
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### 💬 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## 🌟 Current Focus
+
+- ⚡ Scaling modern web applications  
 - 🧩 Building modular APIs with NestJS  
-- 🧠 Experimenting with Astro and React Server Components  
-- 🎮 Developing and maintaining roleplay game systems (FiveM / RageMP)
+- 🧠 Astro & React Server Components  
+- 🎮 FiveM / RageMP systems development  
+- 🐳 Docker & CI/CD automation  
 
 ---
 
-### 📈 GitHub Stats
-![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperplaczek&show_icons=true&theme=tokyonight)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kacperplaczek&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kacperplaczek&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Get in touch
-📧 [xk.placzek@gmail.com](mailto:xk.placzek@gmail.com)  
-🌐 [github.com/kacperplaczek](https://github.com/kacperplaczek)
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacperplaczek&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📫 Contact Me
+
+📧 **Email:** xk.placzek@gmail.com  
+🌐 **GitHub:** https://github.com/kacperplaczek  
+
+---
+
+## ☕ Fun Fact
+
+> "Code is like humor. When you have to explain it, it’s bad."
