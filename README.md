@@ -1,5 +1,5 @@
 <h1 align="center">Kacper Płaczek</h1>
-<h3 align="center">Fullstack Developer · TypeScript · Node.js · React</h3>
+<h3 align="center">Fullstack Developer · TypeScript · Node.js · NextJS · NestJS</h3>
 
 ---
 
