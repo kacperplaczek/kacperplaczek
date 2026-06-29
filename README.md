@@ -23,6 +23,7 @@ Currently working with **Next.js**, **NestJS**, **React Native** and **TypeScrip
 
 - [**minecraft-verification**](https://github.com/kacperplaczek/minecraft-verification) — Minecraft whitelist app with Discord OAuth2, Next.js 15, SQLite · MVVM architecture
 - [**textgame-reactnative**](https://github.com/kacperplaczek/textgame-reactnative) — Text adventure game for Android/iOS · React Native, Expo, Zustand, Jest
+- Upcoming: OpenMenu Project.
 
 ---
 
